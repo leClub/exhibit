@@ -23,16 +23,13 @@ http://www.cenolan.com/2013/03/looping-video-playlist-omxplayer-raspberry-pi/
     cd ~
     git clone https://github.com/leClub/exhibit.git
     mkdir videos 
-    # copy your videos in the videos rep
+    # copy the videos in the videos rep
 
 add this line to your ```/etc/rc.local``` to autostart
 
-    
+    /home/pi/videoplayer.sh
 
-
-
-
-OMX Player commands
+You can control the video with OMX Player commands
 
     1 Increase Speed
     2 Decrease Speed
