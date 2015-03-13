@@ -4,7 +4,7 @@
 setterm -cursor off
 
 # set here the path to the directory containing your videos
-VIDEOPATH="/mnt/storage/videos" 
+VIDEOPATH="/home/pi/videos" 
 
 # you can normally leave this alone
 SERVICE="omxplayer"
