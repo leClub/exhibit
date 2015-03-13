@@ -27,7 +27,7 @@ http://www.cenolan.com/2013/03/looping-video-playlist-omxplayer-raspberry-pi/
 
 add this line to your ```/etc/rc.local``` to autostart
 
-    /home/pi/videoplayer.sh
+    /home/pi/exhibit/videoplayer.sh
 
 You can control the video with OMX Player commands
 
